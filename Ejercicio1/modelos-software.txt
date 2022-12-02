@@ -1,4 +1,2 @@
-- Modelo Cascada
-- Modelo Cascada Con Feedback
+
 - Modelo Iterativo Incremental
-- Modelo Agile
